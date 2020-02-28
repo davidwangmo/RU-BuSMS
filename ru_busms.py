@@ -98,11 +98,8 @@ def main():
     REXLstops = {'College Hall' : {'lat' : "40.485638", 'lng' : "-74.437418" },
             'Red Oak Lane': {'lat' : "40.483104", 'lng' : "-74.437426" },
             'Lipman Hall': { 'lat' : "40.481417", 'lng' : "-74.436096"},
-<<<<<<< HEAD:emojipasta.py
             'Livi Plaza' : {'lat' : "40.525088", 'lng' : "-74.438634"},
-=======
             'Livi Plaza' : {'lat' : "40.525088", 'lng' : "-74.438634"}, 
->>>>>>> 84d17276f61215d6b5ed3f35de05916ca89a8ea7:ru_busms.py
             'Livi Student Center' : {'lat' : "40.524063", 'lng' : "-74.436528"},
             }
             
